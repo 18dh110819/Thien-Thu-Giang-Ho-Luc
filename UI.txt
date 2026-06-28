@@ -1408,7 +1408,7 @@ function buildKungfuList() {
 const KUNGFU_LIST = buildKungfuList();
 const STAT_KEYS   = ['Quyền_chưởng','Côn_thương','Kiếm','Đao','Ám_khí','Căn_cơ_nội_công'];
 const BASE_VAL    = 5;
-const TOTAL_PTS   = 30;
+const TOTAL_PTS   = 3000;
 
 const OPENING_CHOICES = [
   { id: 1, name: 'Mở đầu Toàn Chân Giáo', detail: 'Bạn xuyên không thành một tiểu đệ tử không được coi trọng của Toàn Chân Giáo, xem bạn làm sao lật ngược thế cờ.', editable: false },
